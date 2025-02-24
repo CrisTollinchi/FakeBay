@@ -1,0 +1,8 @@
+{
+    "host":"http://localhost",
+    "port":"3000",
+    "prefix":"/FakeBay",
+    "dbUri":"mongodb://127.0.0.1/fakebay",
+    "clientUrl":"http://localhost:5173",
+    "sessionSecret":"keyboard cat"
+}
